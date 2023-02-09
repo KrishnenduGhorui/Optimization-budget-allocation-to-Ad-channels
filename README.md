@@ -15,3 +15,8 @@ Role & resposibility -
 •Calculated combined reach with predicted individual reach of all channels by using Sainsbury formula (de-duplicated the combined reach with de-duplication factor).
 •Optimized budget allocated to each channel to have maximum combined reach, with some constraints.
 •Created MVP by a pipeline – Uploading input data on google cloud bucket will trigger the pipeline to run. Pipeline will load input data to python script from cloud bucket, run forecasting, optimization, save the optimized output result to BigQuery table, from there output is visualized in Looker studio. 
+
+
+
+Sainsbury formula - 
+RChnl1 + RChnl2 – (K* RChnl1* RChnl2)
