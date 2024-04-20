@@ -1,7 +1,7 @@
 # Optimization of Budget allocation to number of advertisement channels :
 
 Developing an optimization system with ML model and optimization algorithm that will suggest optimized budget to be allocated to different channels, so that combined de-duplicated reach will be maximum.
-
+Just testing typeing ok, it's working well or not
 Tools/Technologies Used: Python, GCP, BigQuery, Looker studio. Machine Learning, Google cloud storage bucket etc.
 
 Role & resposibility - 
