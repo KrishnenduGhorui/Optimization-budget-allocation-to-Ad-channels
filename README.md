@@ -13,6 +13,9 @@ Build a Cross Channel Ad Reach OptimizationEngineto determine optimized budget s
 3. Forecast reach for each channel by Multi-variatelinear regression & ANN, evaluated forecasting by adjusted R2 score,MAPE. Then combined them to get overall de-duped reach by Sainsbury formulausing de-duplication factor. ·
 4. Constrained Optimization of budget split acrosschannels is done to have highest possible de-duped reach using brute force techniques.
 
+![image](https://github.com/KrishnenduGhorui/Optimization-budget-allocation-to-Ad-channels/assets/77465776/1f044326-9257-4632-80e2-09f2c5f22fa1)
+
+
 ## Model performance –
 AdSmart - R-Score- 0.89 & MAPE of 0.21 , on test data set covering 5037 campaigns  
 
