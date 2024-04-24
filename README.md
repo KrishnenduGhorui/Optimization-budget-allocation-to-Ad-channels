@@ -19,6 +19,8 @@ Build a Cross Channel Ad Reach OptimizationEngineto determine optimized budget s
 ## Model performance –
 AdSmart - R-Score- 0.89 & MAPE of 0.21 , on test data set covering 5037 campaigns  
 
+![image](https://github.com/KrishnenduGhorui/Optimization-budget-allocation-to-Ad-channels/assets/77465776/601a07f2-4932-41b5-8915-b09274a0c78f)
+
 **Three advertising channel platform are there**
 * AdSmart – Tv Channel 
 * VoD( Video on Demand) – YouTube , Netflix, Amazon Prime,Disney +hotstar 
