@@ -30,7 +30,7 @@ Rde-duped= Rde-duped1 + R3- K2* Rde-duped1*R3 K1=1.02K2=1.11
 
 
 
-H<sub>2</sub>O
+K<sub>1</sub>
 
 
 
