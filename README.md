@@ -25,8 +25,10 @@ AdSmart - R-Score- 0.89 & MAPE of 0.21 , on test data set covering 5037 campaign
 Reach for channel 1, channel 2, channel 3 are R<sub>1</sub>,R<sub>2</sub>,R<sub>3</sub> respectively. 
 K<sub>1</sub> , K<sub>2</sub> are de-duplication factor. 
 
-Rde-duped1=R1+R2 - K1*R1*R2
-Rde-duped= Rde-duped1 + R3- K2* Rde-duped1*R3 K1=1.02K2=1.11
+R<sub>de-duped1</sub>=R<sub>1</sub>+R<sub>2</sub> - K<sub>1</sub>*R<sub>1</sub>*R<sub>2</sub>
+R<sub>de-duped</sub>= R<sub>de-duped1</sub> + R<sub>3</sub>- K<sub>2</sub>* R<sub>de-duped1</sub>*R<sub>3</sub> 
+
+K<sub>1</sub>=1.02, K<sub>2</sub>=1.11
 
 
 
