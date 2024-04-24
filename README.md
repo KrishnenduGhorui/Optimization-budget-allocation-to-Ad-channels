@@ -22,8 +22,8 @@ AdSmart - R-Score- 0.89 & MAPE of 0.21 , on test data set covering 5037 campaign
 * Digital – Social media (Facebook , twitter, Instagrams), GoogleAdSense on browser, blog, mobile app
 
 **De-duplication process using Sainsbury formula** –
-Reach for channel 1, channel 2, channel 3 are R^1,R^2,R^3 respectively. 
-K1 , K2 are de-duplication factor. 
+Reach for channel 1, channel 2, channel 3 are R<sub>1,R<sub>2,R<sub>3 respectively. 
+K<sub>1 , K<sub>2 are de-duplication factor. 
 
 Rde-duped1=R1+R2 - K1*R1*R2
 Rde-duped= Rde-duped1 + R3- K2* Rde-duped1*R3 K1=1.02K2=1.11
