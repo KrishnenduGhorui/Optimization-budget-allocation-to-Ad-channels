@@ -21,7 +21,7 @@ AdSmart - R-Score- 0.89 & MAPE of 0.21 , on test data set covering 5037 campaign
 * VoD( Video on Demand) – YouTube , Netflix, Amazon Prime,Disney +hotstar 
 * Digital – Social media (Facebook , twitter, Instagrams), GoogleAdSense on browser, blog, mobile app
 
-**De-duplication process using Sainsbury formula** –
+### De-duplication process using Sainsbury formula –
 
 Reach for channel 1, channel 2, channel 3 are R<sub>1</sub>,R<sub>2</sub>,R<sub>3</sub> respectively. 
 
