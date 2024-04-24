@@ -33,8 +33,7 @@ R<sub>de-duped</sub>= R<sub>de-duped1</sub> + R<sub>3</sub>- K<sub>2</sub>* R<su
 
 K<sub>1</sub>=1.02, K<sub>2</sub>=1.11
 
-![image](https://github.com/KrishnenduGhorui/Optimization-budget-allocation-to-Ad-channels/assets/77465776/44b62b7e-eecf-4587-8dd2-f06dcfe209d6)
-
+![image](https://github.com/KrishnenduGhorui/Optimization-budget-allocation-to-Ad-channels/assets/77465776/3ccb3255-e18d-4c91-93f2-b2a192fb4aa8)
 
 
 •Created MVP by a pipeline – Uploading input data on google cloud bucket will trigger the pipeline to run. Pipeline will load input data to python script from cloud bucket, run forecasting, optimization, save the optimized output result to BigQuery table, from there output is visualized in Looker studio. 
