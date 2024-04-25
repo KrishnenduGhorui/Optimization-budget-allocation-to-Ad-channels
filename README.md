@@ -41,7 +41,7 @@ K<sub>1</sub>=1.02, K<sub>2</sub>=1.11
 ![image](https://github.com/KrishnenduGhorui/Optimization-budget-allocation-to-Ad-channels/assets/77465776/b21017e7-aa0d-47e6-8baf-e01b4c6739a5)
 
 
-•Created MVP by a pipeline – Uploading input data on google cloud bucket will trigger the pipeline to run. Pipeline will load input data to python script from cloud bucket, run forecasting, optimization, save the optimized output result to BigQuery table, from there output is visualized in Looker studio. 
+•Created a pipeline – Uploading input data on google cloud bucket will trigger the pipeline to run. Pipeline will load input data to python script from cloud bucket, run forecasting, optimization, save the optimized output result to BigQuery table, from there output is visualized in Looker studio. 
 
 
 
@@ -51,7 +51,10 @@ K<sub>1</sub>=1.02, K<sub>2</sub>=1.11
 ![image](https://github.com/KrishnenduGhorui/Optimization-budget-allocation-to-Ad-channels/assets/77465776/c9ed205f-f4d6-4664-ad16-f2b45ee92ef1)
 ![image](https://github.com/KrishnenduGhorui/Optimization-budget-allocation-to-Ad-channels/assets/77465776/ba8f0672-7659-4c39-a94a-89f9a913ec30)
 ![image](https://github.com/KrishnenduGhorui/Optimization-budget-allocation-to-Ad-channels/assets/77465776/0de6263d-8bc4-4bb5-a278-53e9fcdd3882)
+![image](https://github.com/KrishnenduGhorui/Optimization-budget-allocation-to-Ad-channels/assets/77465776/6b14bbcc-37b9-40d8-bd53-d85db8e7e30d)
 ![image](https://github.com/KrishnenduGhorui/Optimization-budget-allocation-to-Ad-channels/assets/77465776/78a5c346-e1bd-414a-a4e7-d31fcf4cd262)
+![image](https://github.com/KrishnenduGhorui/Optimization-budget-allocation-to-Ad-channels/assets/77465776/3207311d-c2f3-474b-8d0b-846ac9c084a5)
+
 
 
 
