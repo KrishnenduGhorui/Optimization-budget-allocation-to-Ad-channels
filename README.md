@@ -4,9 +4,9 @@
 Build a Cross Channel Ad Reach OptimizationEngineto determine optimized budget splitacross media channels to obtain the maximum campaign reach for a given totalcampaign budget, campaign conditions and target audience
 
 ## Impact –
-**Reach improvement**: Improved cross-channel dedupedreach by 7% (average on recent 20 campaigns) compared tonon-optimised budget allocation, driving significant MROI (MarketingReturn on Investment) improvementon advertiser side.
+**Reach improvement**: Improved cross-channel dedupedreach by **7% (average on recent 120 campaigns)** compared to non-optimised budget allocation, driving significant **MROI (Marketing Return on Investment) improvementon** advertiser side.
 
-**Clearanceon attribute that affect Reach** - developed a full picture of understanding of the attribute of campaigndata and target audience with a list of indicated investment areas to improve overallreach over time. 
+**Clearanceon attribute that affect Reach** - developed a full picture of understanding of the attribute of campaign data and target audience with a list of indicated investment areas to improve overall reach over time. 
 
 ## Steps:·      
 1. Collected data from bigquery table.
