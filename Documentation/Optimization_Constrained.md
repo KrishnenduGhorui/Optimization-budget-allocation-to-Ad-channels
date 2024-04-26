@@ -1,10 +1,11 @@
-﻿Brute force technique used for optimization.
+# Constrained Optimization of budget 
+ 
+ Optimization is carried out on advertisement budget acrross 3 channels maintaining some constraints.
+ 
+ **Brute Force technique** is used for optimization. 
 
 
-
-
-
-Constraint–
+**Constraint** –
 
 AdSmart Led specific  -
 
