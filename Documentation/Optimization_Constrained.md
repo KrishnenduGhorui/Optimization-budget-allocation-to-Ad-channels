@@ -40,7 +40,6 @@ General constraint –
 ·       Minimum copy length – 5 seconds
 
 ·       Minimum segment size - 25000
-
 * Spent_adsmart + spent_vod + spent_digital=100% of total media budget
 
 
