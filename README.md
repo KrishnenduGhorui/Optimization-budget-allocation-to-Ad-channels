@@ -5,6 +5,7 @@ Build a Cross Channel Ad Reach OptimizationEngineto determine optimized budget s
 
 ### Impact –
 **Reach improvement**: Improved cross-channel dedupedreach by 7% (average on recent 20 campaigns) compared tonon-optimised budget allocation, driving significant MROI (MarketingReturn on Investment) improvementon advertiser side.
+
 **Clearanceon attribute that affect Reach** - developed a full picture of understanding of the attribute of campaigndata and target audience with a list of indicated investment areas to improve overallreach over time. 
 
 ## Steps:·      
@@ -32,9 +33,9 @@ Reach for channel 1, channel 2, channel 3 are R<sub>1</sub>,R<sub>2</sub>,R<sub>
 
 K<sub>1</sub> , K<sub>2</sub> are de-duplication factor. 
 
-R<sub>de-duped1</sub>=R<sub>1</sub>+R<sub>2</sub> - K<sub>1</sub>*R<sub>1</sub>*R<sub>2</sub>
-
-R<sub>de-duped</sub>= R<sub>de-duped1</sub> + R<sub>3</sub>- K<sub>2</sub>* R<sub>de-duped1</sub>*R<sub>3</sub> 
+    R<sub>de-duped1</sub>=R<sub>1</sub>+R<sub>2</sub> - K<sub>1</sub>*R<sub>1</sub>*R<sub>2</sub>
+    
+    R<sub>de-duped</sub>= R<sub>de-duped1</sub> + R<sub>3</sub>- K<sub>2</sub>* R<sub>de-duped1</sub>*R<sub>3</sub> 
 
 K<sub>1</sub>=1.02, K<sub>2</sub>=1.11
 
