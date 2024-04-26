@@ -9,23 +9,24 @@ Build a Cross Channel Ad Reach OptimizationEngineto determine optimized budget s
 **Clearanceon attribute that affect Reach** - developed a full picture of understanding of the attribute of campaigndata and target audience with a list of indicated investment areas to improve overallreach over time. 
 
 ## Steps:·      
-1. Collected data from bigquery table. ·
-2. Pre-processed data like missing data handling,outlier handling, data transformation, data encoding(by target guided encoding)and performed feature engineering and feature selection (using VIF score, correlation,variance threshold, and wrapper method ……, ·
-3. Forecast reach for each channel by Multi-variatelinear regression & ANN, evaluated forecasting by adjusted R2 score,MAPE. Then combined them to get overall de-duped reach by Sainsbury formulausing de-duplication factor. ·
-4. Constrained Optimization of budget split acrosschannels is done to have highest possible de-duped reach using brute force techniques.
+1. Collected data from bigquery table.
+2. Pre-processed data like missing data handling (Using **KNN imputation,MICE imputation**),outlier handling, data transformation, data encoding (by **target guided encoding**) and performed feature engineering and feature selection (using **VIF score, correlation,variance threshold, and wrapper method ……,**·
+3. Forecast reach for each channel by **Multi-variate linear regression & ANN**, evaluated forecasting by **adjusted R2 score,MAPE**. Then combined them to get overall de-duped reach by **Sainsbury formula** using de-duplication factor.
+4. **Constrained Optimization** of budget split across channels is done to have highest possible de-duped reach using brute force techniques.
 
 ![image](https://github.com/KrishnenduGhorui/Optimization-budget-allocation-to-Ad-channels/assets/77465776/1f044326-9257-4632-80e2-09f2c5f22fa1)
 
-
-## Model performance –
-AdSmart - R-Score- 0.89 & MAPE of 0.21 , on test data set covering 5037 campaigns  
-
 ![image](https://github.com/KrishnenduGhorui/Optimization-budget-allocation-to-Ad-channels/assets/77465776/601a07f2-4932-41b5-8915-b09274a0c78f)
 
-**Three advertising channel platform are there**
+## Three advertising channel platform are there**
 * AdSmart – Tv Channel 
 * VoD( Video on Demand) – YouTube , Netflix, Amazon Prime,Disney +hotstar 
 * Digital – Social media (Facebook , twitter, Instagrams), GoogleAdSense on browser, blog, mobile app
+
+## Model performance –
+* AdSmart - R-Score- 0.89 & MAPE of 0.21 , on test data set covering 5037 campaigns  
+* VoD - R-Score- 0.85 & MAPE of 0.23 , on test data set covering 3289 campaigns 
+* Digital - R-Score- 0.86 & MAPE of 0.21 , on test data set covering 3136 campaigns
 
 ## De-duplication process using Sainsbury formula –
 
