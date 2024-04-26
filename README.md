@@ -18,7 +18,7 @@ Build a Cross Channel Ad Reach OptimizationEngineto determine optimized budget s
 
 ![image](https://github.com/KrishnenduGhorui/Optimization-budget-allocation-to-Ad-channels/assets/77465776/601a07f2-4932-41b5-8915-b09274a0c78f)
 
-## Three advertising channel platform are there**
+## Three advertising channel platform are there
 * AdSmart – Tv Channel 
 * VoD( Video on Demand) – YouTube , Netflix, Amazon Prime,Disney +hotstar 
 * Digital – Social media (Facebook , twitter, Instagrams), GoogleAdSense on browser, blog, mobile app
