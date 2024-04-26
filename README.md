@@ -1,9 +1,9 @@
 # Optimization of Budget allocation to number of advertisement channels :
 
-### Objective - 
+## Objective - 
 Build a Cross Channel Ad Reach OptimizationEngineto determine optimized budget splitacross media channels to obtain the maximum campaign reach for a given totalcampaign budget, campaign conditions and target audience
 
-### Impact –
+## Impact –
 **Reach improvement**: Improved cross-channel dedupedreach by 7% (average on recent 20 campaigns) compared tonon-optimised budget allocation, driving significant MROI (MarketingReturn on Investment) improvementon advertiser side.
 
 **Clearanceon attribute that affect Reach** - developed a full picture of understanding of the attribute of campaigndata and target audience with a list of indicated investment areas to improve overallreach over time. 
@@ -27,15 +27,15 @@ AdSmart - R-Score- 0.89 & MAPE of 0.21 , on test data set covering 5037 campaign
 * VoD( Video on Demand) – YouTube , Netflix, Amazon Prime,Disney +hotstar 
 * Digital – Social media (Facebook , twitter, Instagrams), GoogleAdSense on browser, blog, mobile app
 
-### De-duplication process using Sainsbury formula –
+## De-duplication process using Sainsbury formula –
 
 Reach for channel 1, channel 2, channel 3 are R<sub>1</sub>,R<sub>2</sub>,R<sub>3</sub> respectively. 
 
 K<sub>1</sub> , K<sub>2</sub> are de-duplication factor. 
 
-    R<sub>de-duped1</sub>=R<sub>1</sub>+R<sub>2</sub> - K<sub>1</sub>*R<sub>1</sub>*R<sub>2</sub>
-    
-    R<sub>de-duped</sub>= R<sub>de-duped1</sub> + R<sub>3</sub>- K<sub>2</sub>* R<sub>de-duped1</sub>*R<sub>3</sub> 
+R<sub>de-duped1</sub>=R<sub>1</sub>+R<sub>2</sub> - K<sub>1</sub>*R<sub>1</sub>*R<sub>2</sub>
+
+R<sub>de-duped</sub>= R<sub>de-duped1</sub> + R<sub>3</sub>- K<sub>2</sub>* R<sub>de-duped1</sub>*R<sub>3</sub> 
 
 K<sub>1</sub>=1.02, K<sub>2</sub>=1.11
 
