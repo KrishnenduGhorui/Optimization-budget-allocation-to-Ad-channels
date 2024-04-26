@@ -41,7 +41,9 @@ General constraint –
 
 ·       Minimum segment size - 25000
 
+* Spent_adsmart + spent_vod + spent_digital=100% of total media budget
 
 
-Spent\_ads + spent\_vod + spent\_digital=100% of total media budget
+
+
 
