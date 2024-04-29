@@ -22,7 +22,7 @@ To have linear relationship with input feature and output target feature below t
 
 **Encoding on categorical attribute** - 
 
-Target guided encoding on categorical attributes 
+* Target guided mean encoding on categorical attributes 
 
 
 Around 30 category there for attribute like industry. 
