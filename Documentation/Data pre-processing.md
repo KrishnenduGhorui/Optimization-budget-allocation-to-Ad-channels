@@ -9,7 +9,7 @@
 
 **Scaling**  - 
 
-MinMax scaling 
+* MinMax scaling 
 
 **Transformation** - 
 
