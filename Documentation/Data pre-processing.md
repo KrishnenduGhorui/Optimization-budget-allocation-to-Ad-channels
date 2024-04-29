@@ -34,10 +34,7 @@ In this way who will get 30 as label, that will get more weightage during model 
 
 So, in target encoding is done, which category has more ferequency that will get rank 1.
 
-
-
-
-Inverse exponential transformation – 
+**Inverse exponential transformation** – 
 
     (1-np.exp(-1*B*pow(data_val, C)))
 
