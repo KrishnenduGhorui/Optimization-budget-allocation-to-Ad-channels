@@ -6,6 +6,8 @@
 * MICE (Multivariate Imputation by Chained Equations)/ Iterative Imputation 
 * For some categorical missing data is replaced by a new category called ‘absent’ . 
   If any new category entered to that fetaure by user in future, that will be considered as ‘Others’ as well.
+* Some records are direactly removed, those have very important sensitive attributes missing, those shouldn’t be imputed by any means or other way as those can mislead the prediction, training in case imputated value is not correct. 
+
 
 **Scaling**  - 
 
