@@ -9,10 +9,12 @@ Build a Cross Channel Ad Reach OptimizationEngineto determine optimized budget s
 **Clearance on attribute that affect Reach** - developed a full picture of understanding of the attribute of campaign data and target audience with a list of indicated investment areas to improve overall reach over time. 
 
 ## Steps:·      
-1. Collected data from bigquery table.
-2. Pre-processed data like missing data handling (Using **KNN imputation,MICE imputation**),outlier handling, data transformation, data encoding (by **target guided encoding**) and performed feature engineering and feature selection (using **VIF score, correlation,variance threshold, and wrapper method ……,**·
-3. Forecast reach for each channel by **Multi-variate linear regression & ANN**, evaluated forecasting by **adjusted R2 score,MAPE**. Then combined them to get overall de-duped reach by **Sainsbury formula** using de-duplication factor.
-4. **Constrained Optimization** of budget split across channels is done to have highest possible de-duped reach using brute force techniques.
+1. Loaded data from **BigQuery** to jupyter notebook on **GCP Vertex AI**.
+2. Performed EDA from various business point of view.
+3. Pre-processed data like missing data handling (Using **KNN imputation,MICE imputation**),outlier handling, data transformation, data encoding (by **target guided encoding**) and performed feature engineering and feature selection (using **VIF score, correlation,variance threshold, and wrapper method ……,**·
+4. Trained **Multivariate linear regression & ANN model** for reach forecasting for each channel individually with separate individual data, evaluated model‘s performance by metrics like **R2 score, adjusted R2 score, MAPE**.
+5. Then combined them to get overall de-duped reach by **Sainsbury formula** using de-duplication factor.
+6. **Constrained Optimization** of budget split across channels is done to have highest possible de-duped reach using brute force techniques.
 
 ![image](https://github.com/KrishnenduGhorui/Optimization-budget-allocation-to-Ad-channels/assets/77465776/1f044326-9257-4632-80e2-09f2c5f22fa1)
 
