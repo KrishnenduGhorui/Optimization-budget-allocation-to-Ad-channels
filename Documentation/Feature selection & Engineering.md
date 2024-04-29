@@ -14,14 +14,9 @@ Attributes/feature selection done based on below -
 
 * Wrapper method Exhaustive feature selection techniue is used 
 
+* During modelling, based on p value also some features removed or added to model to have better model performance. (anova /chi square) 
 
-During modelling, based on p value also some features removed or added to model to have better model performance. (anova /chi square) 
-
-
-
-Many records are excluded those have very important sensitive attributes missing, those shouldn’t be imputed by any means as those can mislead the prediction, training. (KNN imputation???)
-
-Record removal steps and corresponding reason are visualized in waterfall chart. 
+Feature removal steps and corresponding reason are visualized in waterfall chart. 
 
 
 **Feature engineering -**
