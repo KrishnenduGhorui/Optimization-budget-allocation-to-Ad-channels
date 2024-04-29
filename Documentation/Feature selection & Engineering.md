@@ -5,15 +5,10 @@ Total around 235 attributes were there in dataset. Among them only 20 attributes
 Attributes/feature selection done based on below -
 
 * Correlation – Correlation of input feature with target feature, less correlated input features are removed. 
-
 * VIF score – VIF score is more than 5 for pair of input feature, one of them which is less correlated to target is removed. 
-
 * Missing data – feature having more than 50% missing data and not so important for target, are removed. Some record having target data missing are removed. 
-
 * business concept – Based on business knowledge whatever attributes are not so important are removed. 
-
 * Wrapper method Exhaustive feature selection techniue is used 
-
 * During modelling, based on p value also some features removed or added to model to have better model performance. (anova /chi square) 
 
 Feature removal steps and corresponding reason are visualized in waterfall chart. 
