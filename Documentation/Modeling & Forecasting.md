@@ -16,16 +16,22 @@ Now for example , it needs to be explored if for a particular channel 90% of tot
 Now , if budget is increased for a particular year or product, there is no historical data of that much budget, so tree based model will not be able to predict correctly.
 
 For example like , if one predicting variable and one target variable there. 
+
 Now, in historical data, maximum value of predicting variable is 100. Now for predicting variable 100, 200, 300 for all same forecasting target variable will come. 
+
 It will be saturated. 
+
 Now our objective is to find saturation point, we are looking for the saturation point from data, reality how business/reach work. Not the saturation because of model we used.  
+
 Business will not be able to explore with various budget. They can’t plan budgeting. They can’t explore how reach will be ,with more budget. 
+
 
 
 
 **Reason why linear regression, ANN used for forecasting** -
 
 Above mentioned problem is not there in linear regrssion and ANN. 
+
 
 
 
