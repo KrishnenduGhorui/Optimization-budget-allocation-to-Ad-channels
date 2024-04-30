@@ -2,7 +2,7 @@
 
  Missing data handled by below mentioned way - 
 
-* KNN impuation
+* KNN imputation
 * MICE (Multivariate Imputation by Chained Equations)/ Iterative Imputation 
 * For some categorical missing data is replaced by a new category called ‘absent’ . 
   If any new category entered to that fetaure by user in future, that will be considered as ‘Others’ as well.
