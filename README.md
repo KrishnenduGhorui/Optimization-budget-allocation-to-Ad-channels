@@ -6,7 +6,7 @@ Build a Cross Channel Ad Reach OptimizationEngineto determine optimized budget s
 ## Impact –
 **Reach improvement**: Improved cross-channel dedupedreach by **7% (average on recent 120 campaigns)** compared to non-optimised budget allocation, driving significant **MROI (Marketing Return on Investment) improvement** on advertiser side.
 
-**Clearance on attribute that affect Reach** - developed a full picture of understanding of the attribute of campaign data and target audience with a list of indicated investment areas to improve overall reach over time. 
+**Clearance on attribute that affect Reach** - Got idea about 5 attribute of campaign data and target audience that affect reach most,so those are investment areas to improve overall reach over time. 
 
 ## Steps:·      
 1. Loaded data from **BigQuery** to jupyter notebook on **GCP Vertex AI**.
