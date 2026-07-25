@@ -1,7 +1,7 @@
 # Optimization of Budget allocation to number of advertisement channels :
 
 ## Objective - 
-Build a Cross Channel Ad Reach Optimization Engine to determine optimized budget splitacross media channels to obtain the maximum campaign reach for a given total campaign budget, campaign conditions and target audience
+Build a Cross Channel Ad Reach Optimization Engine to determine optimized budget split across media channels to obtain the maximum campaign reach for a given total campaign budget, campaign conditions and target audience
 
 ## Impact –
 **Reach improvement**: Improved cross-channel deduped reach by **11% (average on recent 120 campaigns)** compared to non-optimised budget allocation, driving significant **MROI (Marketing Return on Investment) improvement 7%** on advertiser side.
